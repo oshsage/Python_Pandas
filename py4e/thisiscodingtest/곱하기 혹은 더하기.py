@@ -1,4 +1,5 @@
-list = map(int,list(input()))
+list = map(int, list(input()))
+print(list)
 result = 0
 for i in list:
     if result == 0:
